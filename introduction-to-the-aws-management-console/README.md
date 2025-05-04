@@ -16,7 +16,7 @@
 
 - *Región:* Área geográfica donde contiene varios centros de datos (ejemplo: us-east-1).
 - *Zonas de disponibilidad:* Subconjunto dentro de una región (ejemplo: us-east-1a, us-east-1a).
-- *Ubicación de borge:* Centro de datos pequeños, principalmente para servicios de entrega de contenido (Amazon CloudFront), DNS (Route 53) y servicios de baja latencia. Está más cerca del usuario final que las regiones. 
+- *Ubicación de borde:* Centro de datos pequeños, principalmente para servicios de entrega de contenido (Amazon CloudFront), DNS (Route 53) y servicios de baja latencia. Está más cerca del usuario final que las regiones. 
 
 ## Modelos de pago de AWS
 
